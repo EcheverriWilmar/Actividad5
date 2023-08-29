@@ -53,7 +53,7 @@ def main():
         print("3. Generar una secuencia de Fibonacci hasta un número dado")
         print("4. Calcular el área de un triángulo")
         print("5. Calcular la suma de los dígitos de un número")
-        print("6. Salir")
+        print("0. Salir")
 
         opcion = int(input("Selecciona un ejercicio (0-5): "))
 
